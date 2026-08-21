@@ -14,3 +14,9 @@ This project demonstrates basic Git and GitHub concepts including repository for
 
 Riya  Mahesh Balshetwar
 
+\## Bug Fix
+
+
+
+This section was added as part of the bug-fix update.
+
