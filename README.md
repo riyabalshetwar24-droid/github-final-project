@@ -12,4 +12,5 @@ This project demonstrates basic Git and GitHub concepts including repository for
 
 ## Author
 
-Riya Balshetwar
+Riya  Mahesh Balshetwar
+
